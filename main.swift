@@ -11,3 +11,6 @@ paises.forEach({ print($0) })
 
 print(arimeticOperations(number1: 3, number2: 3, mathOperator: .multiply))
 
+var hola = "Hola"
+
+print(hola)
